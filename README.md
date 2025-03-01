@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing and networking.
 - 🌱 I’m currently learning AWS, Linux and Python.
 - 💞️ I’m looking to collaborate on cloud infrastructure projects, networking solutions, or open-source contributions.
-- 📫 How to reach me: you can contact me via Linkedin at https://www.linkedin.com/in/anish-pant73/
+- 📫 How to reach me: you can contact me via Linkedin at https://www.linkedin.com/in/anish-pant/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’m still new to GitHub but learning fast, and I’m currently working on a blog to document my cloud and networking journey! I hope to eventually turn this into a resource for others just starting out!
 <!---
