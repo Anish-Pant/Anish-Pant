@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anish-Pant
 - 👀 I’m interested in cloud computing and networking.
-- 🌱 I’m currently learning AWS, Linux and Python.
+- 🌱 I’m currently learning Azure, Linux and Python.
 - 💞️ I’m looking to collaborate on cloud infrastructure projects, networking solutions, or open-source contributions.
 - 📫 How to reach me: you can contact me via Linkedin at https://www.linkedin.com/in/anish-pant/
 - 😄 Pronouns: he/him
